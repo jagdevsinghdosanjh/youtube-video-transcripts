@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+yt-dlp>=2024.3.10
+openai-whisper>=20230314
+torch>=2.0.0
+ffmpeg-python>=0.2.0
+numpy>=1.24.0
+librosa>=0.10.0
+matplotlib>=3.7.0
+fpdf2>=2.7.6
+indic-transliteration>=2.3.43
+qrcode[pil]>=7.4.2
+deep-translator>=1.11.4
